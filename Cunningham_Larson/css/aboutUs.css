@@ -1,0 +1,44 @@
+#ourStory{
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    
+}
+
+.box img{
+    width: 250px;
+    height: 260px;  
+}
+
+.box{
+    width: 25%;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    float: left;
+    height: 260px;
+    margin-bottom: 50px;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-top: 20px;
+    
+}
+
+
+#founder{
+   margin-right: 0px; 
+   margin-left: 0px;
+}
+
+#building{
+    margin-left: 0px;
+    margin-right: 0px; 
+}
+
+#obama{
+   margin-right: 0px;
+    margin-left: 0px;
+}
+
+#nixon{
+    margin-left: 0px;
+    margin-right: 0px; 
+}

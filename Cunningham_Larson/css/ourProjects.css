@@ -1,0 +1,42 @@
+div.gallery {
+        
+			margin: 5px;
+			border: 1px solid #ccc;
+			float: right;
+			width: 315px;
+			font-family: 'Titillium Web', sans-serif;
+}
+
+div.gallery:hover {
+			border: 1px solid #777;
+}
+
+div.gallery img {
+			width: 100%;
+			height: auto;
+}
+
+div.desc {
+			padding: 5px;
+			text-align: center;
+}
+
+h1{
+	font-family: 'Titillium Web', sans-serif;
+	text-align: center;
+}
+
+h3{
+	font-family: 'Titillium Web', sans-serif;
+	text-align: center;
+}
+
+p{
+	font-family: 'Titillium Web', sans-serif;
+	text-align: center;
+}
+
+#gallereyWrapper{
+    margin-top: 15px;
+}
+
